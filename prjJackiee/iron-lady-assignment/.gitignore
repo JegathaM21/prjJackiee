@@ -1,0 +1,21 @@
+# Maven
+target/
+*.war
+*.ear
+*.apk
+*.class
+*.log
+.mvn/
+*.ipr
+*.iws
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node
+node_modules/
+dist/
+.env
+.DS_Store
